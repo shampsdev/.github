@@ -16,3 +16,8 @@
 ## DevRel Community - Hackathon
 - [server](https://github.com/shampiniony/devrel-community-be)
 - [client](https://github.com/shampiniony/devrel-community-fe)
+
+## [SmartSocial](https://www.zavodit.ru/ru/calendar/event/56) — Hackathon
+- [server](https://github.com/shampiniony/smartsocial-backend)
+- [client](https://github.com/shampiniony/smartsocial-client)
+- [web](https://github.com/shampiniony/smartsocial-web)
