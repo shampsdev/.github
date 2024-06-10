@@ -23,3 +23,7 @@
 ## [SmartSocial](https://www.zavodit.ru/ru/calendar/event/56) — Hackathon
 - [server](https://github.com/shampiniony/smartsocial-backend)
 - [web](https://github.com/shampiniony/smartsocial-web)
+
+## Development Templates
+- [Vue Template](https://github.com/shampiniony/vue-template)
+- [React Template](https://github.com/shampiniony/react-template)
