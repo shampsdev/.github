@@ -1,4 +1,13 @@
 # Шампиньоны)))
+- [gitlab](https://gitlab.shampiniony.ru/shampiniony)
+
+## [NDW summer](https://nolabel.space/ndw/2024/summer)
+- [server](https://github.com/shampiniony/dishdash-server)
+- [web](https://github.com/shampiniony/dishdash-web)
+- [client](https://github.com/shampiniony/dishdash-client)
+- [bot](https://github.com/shampiniony/dishdash-bot)
+### Result - [dishdash.ru](https://dishdash.ru)
+
 
 ## [CreativeSpace](https://creativespace.framer.website/) — Hackathon 👑WINNER👑
 - [server](https://github.com/shampiniony/dishdash-server)
