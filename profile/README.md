@@ -8,6 +8,7 @@ Shaminiony is a hackaton team of developers from ITMO University. We love buildi
 - [web](https://github.com/shampiniony/dishdash-web)
 - [client](https://github.com/shampiniony/dishdash-client)
 - [bot](https://github.com/shampiniony/dishdash-bot)
+- [webapp](https://github.com/shampiniony/dishdash-frontend)
 
 ### Result - [dishdash.ru](https://dishdash.ru)
 
