@@ -5,7 +5,7 @@ Shaminiony is a hackaton team of developers from ITMO University. We love buildi
 
 <sup>[see details](https://nolabel.space/ndw/2024/summer)</sup>
 - [server](https://github.com/shampiniony/dishdash-server)
-- [web](https://github.com/shampiniony/dishdash-web)
+- [landing](https://github.com/shampiniony/dishdash-landing)
 - [client](https://github.com/shampiniony/dishdash-client)
 - [bot](https://github.com/shampiniony/dishdash-bot)
 - [webapp](https://github.com/shampiniony/dishdash-frontend)
