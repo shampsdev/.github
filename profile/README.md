@@ -1,45 +1,46 @@
-# Шампиньоны)))
-Shaminiony is a hackaton team of developers from ITMO University. We love building products, and software is our tool of choice. Here are some of our recent hackathons.
+# Команда "Шампиньоны"
 
-## NDW Summer 🥇
+**Шампиньоны** — команда разработчиков из Университета ИТМО, участвующая в хакатонах и создающая уникальные решения. Мы разрабатываем серверные и клиентские приложения, веб-сервисы и ботов. Наши проекты ориентированы на улучшение бизнес-процессов и взаимодействие с пользователями.
 
-<sup>[see details](https://nolabel.space/ndw/2024/summer)</sup>
-- [server](https://github.com/shampiniony/dishdash-server)
-- [landing](https://github.com/shampiniony/dishdash-landing)
-- [client](https://github.com/shampiniony/dishdash-client)
-- [bot](https://github.com/shampiniony/dishdash-bot)
-- [webapp](https://github.com/shampiniony/dishdash-frontend)
+---
 
-### Result - [dishdash.ru](https://dishdash.ru)
+## Проекты
 
-## CreativeSpace 🥇
+### DishDash
+Сервис в виде телеграм-бота, позволяющий компании друзей определиться с местом для перекуса.
 
-<sup>[see details](https://creativespace.framer.website/)</sup>
-- [server](https://github.com/shampiniony/dishdash-server)
-- [client](https://github.com/shampiniony/dishdash-client)
-- [bot](https://github.com/shampiniony/dishdash-bot)
+| Репозитории         | 
+| ------------------- | 
+| [Backend](https://github.com/shampiniony/dishdash-server), [Frontend](https://github.com/shampiniony/dishdash-frontend), [Landing](https://github.com/shampiniony/dishdash-landing), [Bot](https://github.com/shampiniony/dishdash-bot) |
+| **Результат**        | [dishdash.ru](https://dishdash.ru) |  
 
-## NoLabel 🥇 
+---
 
-- [server](https://github.com/shampiniony/sightquest-server)
-- [client](https://github.com/shampiniony/sightquest-client)
-- [web](https://github.com/shampiniony/sightquest-web)
-### Result - [SightQuest.ru](https://sightquest.ru)
+### SightQuest
+Manhunt в реальном мире с использованием геопозиции.
 
-## Urbathon 🥈
+| Репозитории         | 
+| ------------------- | 
+| [Backend](https://github.com/shampiniony/sightquest-server), [Frontend](https://github.com/shampiniony/sightquest-client), [Web](https://github.com/shampiniony/sightquest-web) |
+| **Результат**        | [SightQuest.ru](https://sightquest.ru) |
 
-- [server](https://github.com/shampiniony/parking-app-server)
-- [client](https://github.com/shampiniony/parking-app-client)
+---
 
-## DevRel Community
-- [server](https://github.com/shampiniony/devrel-community-be)
-- [client](https://github.com/shampiniony/devrel-community-fe)
+## Достижения на хакатонах
 
-## SmartSocial 🥈
-<sup>[see details](https://www.zavodit.ru/ru/calendar/event/56)</sup>
-- [server](https://github.com/shampiniony/smartsocial-backend)
-- [web](https://github.com/shampiniony/smartsocial-web)
+| Хакатон          | Проект    | Репозитории                                                                                              | Ссылка на результат                      |
+| ---------------- | --------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| **NDW Summer 🥇** | DishDash  | [Backend](https://github.com/shampiniony/dishdash-server), [Frontend](https://github.com/shampiniony/dishdash-frontend), [Bot](https://github.com/shampiniony/dishdash-bot) | [Подробнее](https://nolabel.space/ndw/2024/summer)  |
+| **CreativeSpace 🥇** | DishDash | [Backend](https://github.com/shampiniony/dishdash-server), [Frontend](https://github.com/shampiniony/dishdash-client), [Bot](https://github.com/shampiniony/dishdash-bot) | [Подробнее](https://creativespace.framer.website/)  |
+| **NoLabel 🥇**    | SightQuest | [Backend](https://github.com/shampiniony/sightquest-server), [Frontend](https://github.com/shampiniony/sightquest-client), [Web](https://github.com/shampiniony/sightquest-web) | [SightQuest.ru](https://sightquest.ru) |
+| **Urbathon 🥈**   | Парковочное приложение | [Backend](https://github.com/shampiniony/parking-app-server), [Frontend](https://github.com/shampiniony/parking-app-client) | —                                        |
+| **DevRel Community** | Разработка для поддержки сообществ | [Backend](https://github.com/shampiniony/devrel-community-be), [Frontend](https://github.com/shampiniony/devrel-community-fe) | —                                        |
+| **SmartSocial 🥈** | Платформа для социального взаимодействия | [Backend](https://github.com/shampiniony/smartsocial-backend), [Web](https://github.com/shampiniony/smartsocial-web) | [Подробнее](https://www.zavodit.ru/ru/calendar/event/56) |
 
-## Development Templates
-- [Vue Template](https://github.com/shampiniony/vue-template)
-- [React Template](https://github.com/shampiniony/react-template)
+---
+
+## Шаблоны разработки
+Мы создаем и поддерживаем шаблоны для быстрого старта проектов:
+- [Vue Template](https://github.com/shampiniony/vue-template), [React Template](https://github.com/shampiniony/react-template)
+
+---
