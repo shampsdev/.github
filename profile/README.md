@@ -8,12 +8,8 @@
 
 ### DishDash
 Сервис в виде телеграм-бота, позволяющий компании друзей определиться с местом для перекуса.
-
-| Репозитории         | 
-| ------------------- | 
-| [Backend](https://github.com/shampiniony/dishdash-server), [Frontend](https://github.com/shampiniony/dishdash-frontend), [Landing](https://github.com/shampiniony/dishdash-landing), [Bot](https://github.com/shampiniony/dishdash-bot) |
-| **Результат**        | [dishdash.ru](https://dishdash.ru) |  
-
+[Наш сайт](https://dishdash.ru)
+[Телеграмм бот](https://t.me/dishdash_bot)
 ---
 
 ### SightQuest
